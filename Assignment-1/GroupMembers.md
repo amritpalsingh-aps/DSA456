@@ -1,4 +1,4 @@
-Assignment-1 (Group Assignment)
+## Assignment-1 (Group Assignment)
 
-      Amrit Pal Singh 
-      Sahilpreet Singh 
+      * Amrit Pal Singh 
+      * Sahilpreet Singh 
